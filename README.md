@@ -1,5 +1,5 @@
 # USB_POWER_SUPPLY_PCB
-![Finnished Board](USBPOWER_V01_IMAGE.png)
+![Finnished Board](V01   LM2596 board, built and tested /USBPOWER_V01_IMAGE.png)
 
 I started this project shortly before beginning my electrical engineering
 studies, as a way to learn electronics and get hands-on experience. A 12 V
@@ -22,7 +22,7 @@ switching. At the output, a 330 µF electrolytic and a 100 nF ceramic reduce
 ripple, the USB D+ and D- lines are shorted so devices recognise it as a
 charger, and a power LED shows when the output is live.
 
-![Schematic of Next Revision Board](USBPOWER_V01_SCHEMATIC.png)
+![Schematic of Next Revision Board](V01   LM2596 board, built and tested /USBPOWER_V01_SCHEMATIC.png)
 
 
 ## PCB
@@ -37,7 +37,7 @@ The feedback trace is routed away from the inductor and switching node so
 the output regulation isn't disturbed, and the power traces are widened to
 1 mm1 to handle the current. 
 
-![3D Render of Board](USBPOWER_V01_3DVIEWER.png)
+![3D Render of Board](V01   LM2596 board, built and tested /USBPOWER_V01_3DVIEWER.png)
 
 
 ## What I learned
@@ -65,8 +65,8 @@ left are ordering parts, assembing and testing.
 Once the secound board is assembled and ready I'll compare the two boards on 
 efficiency, output ripple and temperature
 
-![Schematic of Next Revision Board](USBPOWER_V01_SCHEMATIC.png)
-![3D Render of Next Revision Board](USBPOWER_V01_3DVIEWER.png)
+![Schematic of Next Revision Board](USBPOWER_V02_SCHEMATIC.png)
+![3D Render of Next Revision Board](USBPOWER_V02_3DVIEWER.png)
 
 
 
