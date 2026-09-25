@@ -72,4 +72,3 @@ efficiency, output ripple and temperature
 
 
 
-
