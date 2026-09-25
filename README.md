@@ -38,7 +38,7 @@ The feedback trace is routed away from the inductor and switching node so
 the output regulation isn't disturbed, and the power traces are widened to
 1 mm1 to handle the current. 
 
-![3D render of the board](v01/USBPOWER_V01_3DVIEW.png)
+![3D render of the board](v01/USBPOWER_V01_3DVIEWER.png)
 
 
 ## What I learned
