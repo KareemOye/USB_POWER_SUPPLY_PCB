@@ -1,1 +1,3 @@
 # USB_POWER_SUPPLY_PCB
+![Board Schematic](USBPOWER_V01_SCHEMATIC.pdf)
+![Finnished Board](USBPOWER_V01_IMAGE.pdf)
