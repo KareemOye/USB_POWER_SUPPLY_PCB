@@ -1,5 +1,5 @@
 # USB_POWER_SUPPLY_PCB
-![Finished board](V01%20LM2596%20board,%20built%20and%20tested%/USBPOWER_V01_IMAGE.png)
+![Finished board](V01%20%20%20LM2596%20board,%20built%20and%20tested%20/USBPOWER_V01_IMAGE.png)
 
 I started this project shortly before beginning my electrical engineering
 studies, as a way to learn electronics and get hands-on experience. A 12 V
