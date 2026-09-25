@@ -67,7 +67,7 @@ left are ordering parts, assembing and testing.
 Once the secound board is assembled and ready I'll compare the two boards on 
 efficiency, output ripple and temperature
 
-![Schematic of Next Revision Board](<[v02 (in progress)/USBPOWER_V02_SCHEMATIC.png](https://github.com/KareemOye/USB_POWER_SUPPLY_PCB/blob/main/v02%20(in%20progress)%20/USBPOWER_V02_SCHEMATIC.png?raw=true)>)
+![Schematic of Next Revision Board](<img src="https://github.com/KareemOye/USB_POWER_SUPPLY_PCB/blob/main/v02%20(in%20progress)%20/USBPOWER_V02_SCHEMATIC.png?raw=true" width="400"> <img src="https://github.com/KareemOye/USB_POWER_SUPPLY_PCB/blob/main/v02%20(in%20progress)%20/USBPOWER_V02_3DVIEWER.png?raw=true" width="400">)
 ![3D Render of Next Revision Board](<v02 (in progress)/USBPOWER_V02_3DVIEWER.png>)
 
 
