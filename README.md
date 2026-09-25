@@ -67,8 +67,8 @@ left are ordering parts, assembing and testing.
 Once the secound board is assembled and ready I'll compare the two boards on 
 efficiency, output ripple and temperature
 
-![Schematic of Next Revision Board](v02%20(in%20progress)/USBPOWER_V02_SCHEMATIC.png)
-![3D Render of Next Revision Board](v02%20(in%20progress)/USBPOWER_V02_3DVIEWER.png)
+![Schematic of Next Revision Board](v02%20%28in%20progress%29/USBPOWER_V02_SCHEMATIC.png)
+![3D Render of Next Revision Board](v02%20%28in%20progress%29/USBPOWER_V02_3DVIEWER.png)
 
 
 
