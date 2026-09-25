@@ -22,7 +22,7 @@ switching. At the output, a 330 µF electrolytic and a 100 nF ceramic reduce
 ripple, the USB D+ and D- lines are shorted so devices recognise it as a
 charger, and a power LED shows when the output is live.
 
-![Board Schematic](USBPOWER_V01_SCHEMATIC.pdf)
+![Schematic of Next Revision Board](USBPOWER_V01_SCHEMATIC.pdf)
 
 
 ## PCB
@@ -36,6 +36,8 @@ reduces noise and ringing.
 The feedback trace is routed away from the inductor and switching node so
 the output regulation isn't disturbed, and the power traces are widened to
 1 mm1 to handle the current. 
+
+![3D Render of Board](USBPOWER_V01_3DVIEW.pdf)
 
 
 ## What I learned
@@ -62,5 +64,10 @@ left are ordering parts, assembing and testing.
 
 Once the secound board is assembled and ready I'll compare the two boards on 
 efficiency, output ripple and temperature
+
+![Schematic of Next Revision Board](USBPOWER_V01_SCHEMATIC.pdf)
+![3D Render of Next Revision Board](USBPOWER_V01_3DVIEW.pdf)
+
+
 
 
