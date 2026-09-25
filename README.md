@@ -1,5 +1,5 @@
 # USB_POWER_SUPPLY_PCB
-![Finnished Board](V01   LM2596 board, built and tested /USBPOWER_V01_IMAGE.png)
+![Finished board](V01%20LM2596%20board,%20built%20and%20tested/USBPOWER_V01_IMAGE.png)
 
 I started this project shortly before beginning my electrical engineering
 studies, as a way to learn electronics and get hands-on experience. A 12 V
@@ -22,7 +22,8 @@ switching. At the output, a 330 µF electrolytic and a 100 nF ceramic reduce
 ripple, the USB D+ and D- lines are shorted so devices recognise it as a
 charger, and a power LED shows when the output is live.
 
-![Schematic of Next Revision Board](V01   LM2596 board, built and tested /USBPOWER_V01_SCHEMATIC.png)
+![Schematic](V01%20LM2596%20board,%20built%20and%20tested/USBPOWER_V01_SCHEMATIC.png)
+
 
 
 ## PCB
@@ -37,7 +38,7 @@ The feedback trace is routed away from the inductor and switching node so
 the output regulation isn't disturbed, and the power traces are widened to
 1 mm1 to handle the current. 
 
-![3D Render of Board](V01   LM2596 board, built and tested /USBPOWER_V01_3DVIEWER.png)
+![3D render of the board](V01%20LM2596%20board,%20built%20and%20tested/USBPOWER_V01_3DVIEW.png)
 
 
 ## What I learned
