@@ -1,5 +1,5 @@
 # USB_POWER_SUPPLY_PCB
-![Finished board](v01/USBPOWER_V01_IMAGE.png)
+![Finished board](v01/USBPOWER_V01_IMAGES.png)
 
 I started this project shortly before beginning my electrical engineering
 studies, as a way to learn electronics and get hands-on experience. A 12 V
