@@ -1,5 +1,5 @@
 # USB_POWER_SUPPLY_PCB
-![Finished board](v01/USBPOWER_V01_IMAGE1%copy.png)
+![Finished board](v01/USBPOWER_V01_IMAGE1%20copy.png)
 
 I started this project shortly before beginning my electrical engineering
 studies, as a way to learn electronics and get hands-on experience. A 12 V
@@ -66,8 +66,8 @@ left are ordering parts, assembing and testing.
 Once the secound board is assembled and ready I'll compare the two boards on 
 efficiency, output ripple and temperature
 
-![Schematic of Next Revision Board](v02%(in%progress)/USBPOWER_V02_SCHEMATIC.png)
-![3D Render of Next Revision Board](v02%(in%progress)/USBPOWER_V02_3DVIEWER.png)
+![Schematic of Next Revision Board](v02%20(in%20progress)/USBPOWER_V02_SCHEMATIC.png)
+![3D Render of Next Revision Board](v02%20(in%20progress)/USBPOWER_V02_3DVIEWER.png)
 
 
 
