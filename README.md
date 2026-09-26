@@ -3,9 +3,10 @@
 ![Finished board](v01/USBPOWER_V01_IMAGE2%20copy.png)
 
 I started this project shortly before beginning my electrical engineering
-studies, as a way to learn electronics and get hands-on experience. A 12 V
-to 5 V USB step-down supply seemed like a good first PCB build, and having
-now designed and assembled it, I think that was the right call.
+studies, as a way to learn electronics and circuit design through hands-on
+experience. A 12 V to 5 V USB step-down supply seemed like a good first PCB
+build, and having now designed and assembled it, I think that was the right
+call.
 
 
  ## Design
