@@ -65,7 +65,7 @@ diode is gone and efficiency should improve, especially at higher loads. It
 also switches at 400 kHz instead of 150 kHz, which allows a smaller 10 µH
 inductor and ceramic output capacitors in place of the large electrolytic.
 The divider is now 100 kΩ / 24.9 kΩ against a 1.0 V reference, which would 
-make the output 5.02&nbsp;V according to calcualtion.
+make the output 5.02&nbsp;V according to calculation.
 
 The board has already been designed and routed in KiCad, so the remaining
 steps are ordering parts, assembly and testing.
