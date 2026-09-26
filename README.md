@@ -1,4 +1,4 @@
-# USB_POWER_SUPPLY_PCB
+# USB Power Supply (12 V to 5 V)
 ![Finished board](v01/USBPOWER_V01_IMAGE1%20copy.png)
 ![Finished board](v01/USBPOWER_V01_IMAGE2%20copy.png)
 
@@ -13,7 +13,7 @@ now designed and assembled it, I think that was the right call.
 I went with a buck converter rather than a linear regulator, since dropping
 12 V to 5 V linearly would waste a very significant amount of power as heat. 
 The LM2596S-ADJ handles the switching, and a 1N5822 Schottky diode carries the 
-inductorcurrent while the internal switch is off. The feedback pin regulates 
+inductor current while the internal switch is off. The feedback pin regulates 
 to 1.23 V, so the 3.6 kΩ and 1.2 kΩ divider sets the output to about 4.9 V, 
 and a 47 µH inductor smooths the current.
 
@@ -29,7 +29,7 @@ charger, and a power LED shows when the output is live.
 
 ## PCB
 
-The board is a 2-layer measuring approximately 145 × 38 mm design routed in
+The board is a 2-layer approximately 145 × 38 mm design routed in
 KiCad, with one SMD component and the rest being through-hole and a ground 
 pour on the bottom layer. I kept the input capacitor, LM2596, diode and
 inductor close together to keep the high-current switching loop small, which
@@ -37,7 +37,7 @@ reduces noise and ringing.
 
 The feedback trace is routed away from the inductor and switching node so
 the output regulation isn't disturbed, and the power traces are widened to
-1 mm1 to handle the current. 
+1 mm to handle the current. 
 
 ![3D render of the board](v01/USBPOWER_V01_3DVIEWER.png)
 
@@ -52,7 +52,7 @@ footprints, ordering parts and hand soldering.
 
 ## Next revision (in progress)
 
-I am making a second board with the same function but far more compact 4-layer
+I am making a second board with the same function but a far more compact 4-layer
 design, 41 × 37 mm, built around the TI LMR33630. Unlike the LM2596, it's
 a synchronous converter with an integrated low-side switch, so the Schottky
 diode is gone and efficiency should improve, especially at higher loads. It
@@ -61,11 +61,11 @@ inductor and ceramic output capacitors in place of the large electrolytic.
 The divider is now 100 kΩ / 24.9 kΩ against a 1.0 V reference, putting the
 output at 5.02 V.
 
-The board has already been fully designed and routed in KiCad the only steps
-left are ordering parts, assembing and testing.
+The board has already been designed and routed in KiCad, so the remaining
+steps are ordering parts, assembly and testing.
 
-Once the secound board is assembled and ready I'll compare the two boards on 
-efficiency, output ripple and temperature
+Once the second board is assembled and ready I'll compare the two boards on 
+efficiency, output ripple and temperature.
 
 <img src="https://github.com/KareemOye/USB_POWER_SUPPLY_PCB/blob/main/v02%20(in%20progress)%20/USBPOWER_V02_SCHEMATIC.png?raw=true">
 
