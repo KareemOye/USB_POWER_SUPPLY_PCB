@@ -50,6 +50,11 @@ a datasheet to choose supporting components, and how much layout matters
 for switching circuits. The build also taught me the practical side:
 footprints, ordering parts and hand soldering.
 
+Looking back, the layout is quite spread out and wasn't optimized for size or 
+performance. The next revision applies what I learned here, with SMD parts, a
+tighter layout and a 4-layer stackup, bringing the board down from 145 × 38 mm
+to 41 × 37 mm.
+
 ## Next revision (in progress)
 
 I am making a second board with the same function but a far more compact 4-layer
