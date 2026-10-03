@@ -42,6 +42,17 @@ the output regulation isn't disturbed, and the power traces are widened to
 
 ![3D render of the board](v01/USBPOWER_V01_3DVIEWER.png)
 
+## Testing & Measurement
+
+![Efficiency and load regulation](v01/Efficiency_Graph_V01.png)
+
+Measured at Vin = 12 V with resistive loads (10.3 Ω, 5.9 Ω, 3.6 Ω), Vout taken at the
+USB connector and input power from the bench supply readout. 
+
+Efficiency is about 80 to 83 % up to 0.8 A and drops to about 77 % at 1.36 A, where
+the board runs very hot (around 2 W of losses, U1 and D1 especially hot). Vout 
+stays between 4.90 and 4.91 V from no load to 1.36 A, well inside the USB spec.
+Full-load (1.5 A), thermal, input sweep and ripple tests are still pending.
 
 ## What I learned
 
